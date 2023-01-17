@@ -5,7 +5,7 @@ export function Home() {
     <>
       <h1>Hardi Mahendra</h1>
         <button>          
-          <Link to="/store" as={Link}>
+          <Link to="/store">
             Go to Product
           </Link>
       </button>
