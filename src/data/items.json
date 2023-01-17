@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Playstation 5",
+    "price": 800,
+    "imgUrl": "/img/playstasion.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Microphone",
+    "price": 11,
+    "imgUrl": "/img/microphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Monitor",
+    "price": 700,
+    "imgUrl": "/img/monitor.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Virtualreality",
+    "price": 1000,
+    "imgUrl": "/img/virtualreality.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Keyboard",
+    "price": 11,
+    "imgUrl": "/img/keyboard.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mouse",
+    "price": 9,
+    "imgUrl": "/img/mouse.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Leptop",
+    "price": 25,
+    "imgUrl": "/img/leptop.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Speaker",
+    "price": 6000,
+    "imgUrl": "/img/speaker.jpg"
+  }
+]
